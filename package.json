@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "leaflet": "^1.9.4",
+    "node-fetch": "^3.3.2",
+    "request": "^2.88.2"
+  },
+  "name": "web2lab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
